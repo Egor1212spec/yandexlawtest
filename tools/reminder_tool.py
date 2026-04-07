@@ -61,18 +61,19 @@ class ReminderTool:
 
     async def fire_due(self):
         """Check all reminders; fire those whose time has come."""
-        now = datetime.now(timezone.utc)
+        now = datetime.now()
         reminders = self._load()
         changed = False
+        log.info(f"⏱ fire_due check: now={now.strftime('%H:%M:%S')}, pending={len([r for r in reminders if not r['fired']])}")
 
         for r in reminders:
             if r["fired"]:
                 continue
             try:
                 when = datetime.fromisoformat(r["when"])
-                # Make timezone-aware if naive
-                if when.tzinfo is None:
-                    when = when.replace(tzinfo=timezone.utc)
+                if when.tzinfo is not None:
+                    when = when.replace(tzinfo=None)
+                log.info(f"  → reminder when={when}, now={now}, due={now >= when}")
                 if now >= when:
                     log.info(f"🔔 Firing reminder for chat {r['chat_id']}: {r['message']}")
                     await self.tg.send_message(

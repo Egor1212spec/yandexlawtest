@@ -8,3 +8,234 @@
 2026-04-07 15:51:44,984 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 400 Bad Request"
 2026-04-07 15:51:44,985 [ERROR] Yandex AI error: Error code: 400 - {'error': 'Authorization header is missing'}
 2026-04-07 15:52:37,174 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 15:59:07,193 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 15:59:07,267 [ERROR] Yandex AI error: 'ResponseFunctionWebSearch' object has no attribute 'content'
+2026-04-07 16:00:04,627 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:02:46,170 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:03:42,923 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:03:42,923 [INFO] 🤖 Telegram polling started
+2026-04-07 16:03:42,925 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:03:43,613 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:03:43,613 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:04:04,663 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:04:26,695 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:04:48,743 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:05:10,782 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:05:32,810 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:05:54,841 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:06:16,912 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:06:38,939 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:07:00,973 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:07:23,005 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:07:45,049 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:08:07,173 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:08:29,210 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:08:51,246 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:09:13,294 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:09:35,364 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:09:57,400 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:10:19,442 [ERROR] get_updates error: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2026-04-07 16:11:53,045 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:11:53,045 [INFO] 🤖 Telegram polling started
+2026-04-07 16:11:53,079 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:11:53,923 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:11:53,924 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:12:27,525 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:12:27,527 [INFO] 🤖 Telegram polling started
+2026-04-07 16:12:27,552 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:12:28,499 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:12:28,499 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:22:28,630 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:22:28,630 [INFO] 🤖 Telegram polling started
+2026-04-07 16:22:28,665 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:22:29,461 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:22:29,461 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:22:34,117 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:22:59,894 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:23:32,548 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:25:37,369 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:25:48,676 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:25:48,677 [INFO] 🤖 Telegram polling started
+2026-04-07 16:25:48,698 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:25:49,530 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:25:49,530 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:25:57,351 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:26:19,945 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:26:19,946 [INFO] 🤖 Telegram polling started
+2026-04-07 16:26:19,974 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:26:20,732 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:26:20,733 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:26:35,095 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:28:56,206 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:28:56,207 [INFO] 🤖 Telegram polling started
+2026-04-07 16:28:56,231 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:28:57,076 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:28:57,077 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:29:19,458 [INFO] 📦 GitHub intent detected — fetching commits...
+2026-04-07 16:29:20,214 [INFO] Commits fetched:
+
+## Repository: Egor1212spec/yandexlawtest
+
+- `51f120e` [2026-04-07] **Egor1212spec**: mvp without secrets
+- `9c158a4` [2026-04-07] **Egor1212spec**: first commit
+2026-04-07 16:29:22,326 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:30:46,381 [ERROR] get_updates error: [Errno 22] Couldn't connect to proxy 141.98.186.196:8000 [Превышен таймаут семафора]
+2026-04-07 16:31:34,427 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:31:34,427 [INFO] 🤖 Telegram polling started
+2026-04-07 16:31:34,456 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:31:35,176 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:31:35,176 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:31:39,786 [INFO] 📦 GitHub intent detected — fetching commits...
+2026-04-07 16:31:40,484 [INFO] Commits fetched:
+
+## Repository: Egor1212spec/yandexlawtest
+
+- `51f120e` [2026-04-07] **Egor1212spec**: mvp without secrets
+- `9c158a4` [2026-04-07] **Egor1212spec**: first commit
+2026-04-07 16:31:43,055 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:33:19,937 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:36:40,989 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:36:40,991 [INFO] ⏰ Reminder scheduled: 2026-04-07T16:38:00 → chat 1235910961
+2026-04-07 16:42:52,586 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:42:52,587 [INFO] 🤖 Telegram polling started
+2026-04-07 16:42:52,609 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:42:53,364 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:42:53,364 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:43:14,271 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:43:14,346 [INFO] ⏰ Reminder scheduled: 2026-04-07T16:44:00 → chat 1235910961
+2026-04-07 16:47:02,760 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:47:02,760 [INFO] 🤖 Telegram polling started
+2026-04-07 16:47:02,782 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:47:03,532 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:47:03,533 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:47:03,533 [INFO] ⏱ fire_due check: now=16:47:03, pending=1
+2026-04-07 16:47:03,534 [INFO]   → reminder when=2026-04-07 16:44:00, now=2026-04-07 16:47:03.533344, due=True
+2026-04-07 16:47:03,534 [INFO] 🔔 Firing reminder for chat 1235910961: проверить список покупок
+2026-04-07 16:47:21,159 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:47:21,160 [INFO] 🤖 Telegram polling started
+2026-04-07 16:47:21,185 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:47:21,911 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:47:21,911 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:47:21,911 [INFO] ⏱ fire_due check: now=16:47:21, pending=0
+2026-04-07 16:47:34,148 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:47:34,223 [INFO] ⏰ Reminder scheduled: 2026-04-07T16:49:00 → chat 1235910961
+2026-04-07 16:47:51,923 [INFO] ⏱ fire_due check: now=16:47:51, pending=1
+2026-04-07 16:47:51,923 [INFO]   → reminder when=2026-04-07 16:49:00, now=2026-04-07 16:47:51.916157, due=False
+2026-04-07 16:48:21,936 [INFO] ⏱ fire_due check: now=16:48:21, pending=1
+2026-04-07 16:48:21,937 [INFO]   → reminder when=2026-04-07 16:49:00, now=2026-04-07 16:48:21.936608, due=False
+2026-04-07 16:48:51,940 [INFO] ⏱ fire_due check: now=16:48:51, pending=1
+2026-04-07 16:48:51,940 [INFO]   → reminder when=2026-04-07 16:49:00, now=2026-04-07 16:48:51.939405, due=False
+2026-04-07 16:49:21,947 [INFO] ⏱ fire_due check: now=16:49:21, pending=1
+2026-04-07 16:49:21,947 [INFO]   → reminder when=2026-04-07 16:49:00, now=2026-04-07 16:49:21.946912, due=True
+2026-04-07 16:49:21,947 [INFO] 🔔 Firing reminder for chat 1235910961: проверить список покупок
+2026-04-07 16:49:32,256 [ERROR] TG sendMessage exception: 
+2026-04-07 16:50:02,282 [INFO] ⏱ fire_due check: now=16:50:02, pending=0
+2026-04-07 16:50:15,259 [ERROR] get_updates error: 
+2026-04-07 16:50:32,295 [INFO] ⏱ fire_due check: now=16:50:32, pending=0
+2026-04-07 16:51:00,824 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:51:00,825 [INFO] 🤖 Telegram polling started
+2026-04-07 16:51:00,848 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:51:01,718 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:51:01,718 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:51:01,719 [INFO] ⏱ fire_due check: now=16:51:01, pending=0
+2026-04-07 16:51:12,075 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:51:12,158 [INFO] ⏰ Reminder scheduled: 2026-04-07T16:52:00 → chat 1235910961
+2026-04-07 16:51:31,723 [INFO] ⏱ fire_due check: now=16:51:31, pending=1
+2026-04-07 16:51:31,723 [INFO]   → reminder when=2026-04-07 16:52:00, now=2026-04-07 16:51:31.722575, due=False
+2026-04-07 16:52:01,730 [INFO] ⏱ fire_due check: now=16:52:01, pending=1
+2026-04-07 16:52:01,731 [INFO]   → reminder when=2026-04-07 16:52:00, now=2026-04-07 16:52:01.730380, due=True
+2026-04-07 16:52:01,731 [INFO] 🔔 Firing reminder for chat 1235910961: проверить список покупок
+2026-04-07 16:56:07,748 [INFO] 🚀 YandexAgent starting...
+2026-04-07 16:56:07,748 [INFO] 🤖 Telegram polling started
+2026-04-07 16:56:07,771 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 16:56:08,551 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 16:56:08,551 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 16:56:08,551 [INFO] ⏱ fire_due check: now=16:56:08, pending=0
+2026-04-07 16:56:17,696 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:56:38,565 [INFO] ⏱ fire_due check: now=16:56:38, pending=0
+2026-04-07 16:57:04,944 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:57:06,657 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:57:08,572 [INFO] ⏱ fire_due check: now=16:57:08, pending=0
+2026-04-07 16:57:38,578 [INFO] ⏱ fire_due check: now=16:57:38, pending=0
+2026-04-07 16:58:08,592 [INFO] ⏱ fire_due check: now=16:58:08, pending=0
+2026-04-07 16:58:31,066 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:58:31,068 [INFO] ⏰ Reminder scheduled: 2026-04-07T16:59:00 → chat 1235910961
+2026-04-07 16:58:38,594 [INFO] ⏱ fire_due check: now=16:58:38, pending=1
+2026-04-07 16:58:38,594 [INFO]   → reminder when=2026-04-07 16:59:00, now=2026-04-07 16:58:38.593910, due=False
+2026-04-07 16:58:42,373 [INFO] 📦 GitHub intent detected — fetching commits...
+2026-04-07 16:58:43,144 [INFO] Commits fetched:
+
+## Repository: Egor1212spec/yandexlawtest
+
+- `51f120e` [2026-04-07] **Egor1212spec**: mvp without secrets
+- `9c158a4` [2026-04-07] **Egor1212spec**: first commit
+2026-04-07 16:58:45,135 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 16:59:08,603 [INFO] ⏱ fire_due check: now=16:59:08, pending=1
+2026-04-07 16:59:08,603 [INFO]   → reminder when=2026-04-07 16:59:00, now=2026-04-07 16:59:08.602679, due=True
+2026-04-07 16:59:08,603 [INFO] 🔔 Firing reminder for chat 1235910961: посмотреть список покупок
+2026-04-07 16:59:40,175 [INFO] ⏱ fire_due check: now=16:59:40, pending=0
+2026-04-07 17:00:10,187 [INFO] ⏱ fire_due check: now=17:00:10, pending=0
+2026-04-07 17:00:40,195 [INFO] ⏱ fire_due check: now=17:00:40, pending=0
+2026-04-07 17:01:10,199 [INFO] ⏱ fire_due check: now=17:01:10, pending=0
+2026-04-07 17:01:35,466 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
+2026-04-07 17:01:35,468 [INFO] ⏰ Reminder scheduled: 2026-04-07T17:03:00 → chat 1235910961
+2026-04-07 17:01:40,207 [INFO] ⏱ fire_due check: now=17:01:40, pending=1
+2026-04-07 17:01:40,207 [INFO]   → reminder when=2026-04-07 17:03:00, now=2026-04-07 17:01:40.207009, due=False
+2026-04-07 17:02:10,219 [INFO] ⏱ fire_due check: now=17:02:10, pending=1
+2026-04-07 17:02:10,220 [INFO]   → reminder when=2026-04-07 17:03:00, now=2026-04-07 17:02:10.219384, due=False
+2026-04-07 17:02:40,234 [INFO] ⏱ fire_due check: now=17:02:40, pending=1
+2026-04-07 17:02:40,234 [INFO]   → reminder when=2026-04-07 17:03:00, now=2026-04-07 17:02:40.233702, due=False
+2026-04-07 17:03:10,239 [INFO] ⏱ fire_due check: now=17:03:10, pending=1
+2026-04-07 17:03:10,240 [INFO]   → reminder when=2026-04-07 17:03:00, now=2026-04-07 17:03:10.238632, due=True
+2026-04-07 17:03:10,241 [INFO] 🔔 Firing reminder for chat 1235910961: покажи мне мои комиты
+2026-04-07 17:03:41,307 [INFO] ⏱ fire_due check: now=17:03:41, pending=0
+2026-04-07 17:03:46,245 [ERROR] get_updates error: 
+2026-04-07 17:04:11,310 [INFO] ⏱ fire_due check: now=17:04:11, pending=0
+2026-04-07 17:04:23,246 [ERROR] get_updates error: 
+2026-04-07 17:04:41,314 [INFO] ⏱ fire_due check: now=17:04:41, pending=0
+2026-04-07 17:04:43,508 [ERROR] get_updates error: [WinError 121] Превышен таймаут семафора
+2026-04-07 17:05:11,322 [INFO] ⏱ fire_due check: now=17:05:11, pending=0
+2026-04-07 17:05:20,249 [ERROR] get_updates error: 
+2026-04-07 17:05:40,530 [ERROR] get_updates error: [WinError 121] Превышен таймаут семафора
+2026-04-07 17:05:41,333 [INFO] ⏱ fire_due check: now=17:05:41, pending=0
+2026-04-07 17:06:03,825 [ERROR] get_updates error: [WinError 121] Превышен таймаут семафора
+2026-04-07 17:06:11,345 [INFO] ⏱ fire_due check: now=17:06:11, pending=0
+2026-04-07 17:06:24,106 [ERROR] get_updates error: [WinError 121] Превышен таймаут семафора
+2026-04-07 17:06:34,819 [ERROR] get_updates error: [WinError 64] Указанное сетевое имя более недоступно
+2026-04-07 17:06:41,352 [INFO] ⏱ fire_due check: now=17:06:41, pending=0
+2026-04-07 17:07:11,366 [INFO] ⏱ fire_due check: now=17:07:11, pending=0
+2026-04-07 17:07:41,370 [INFO] ⏱ fire_due check: now=17:07:41, pending=0
+2026-04-07 17:08:11,384 [INFO] ⏱ fire_due check: now=17:08:11, pending=0
+2026-04-07 17:08:41,394 [INFO] ⏱ fire_due check: now=17:08:41, pending=0
+2026-04-07 17:09:11,408 [INFO] ⏱ fire_due check: now=17:09:11, pending=0
+2026-04-07 17:09:41,416 [INFO] ⏱ fire_due check: now=17:09:41, pending=0
+2026-04-07 17:10:11,424 [INFO] ⏱ fire_due check: now=17:10:11, pending=0
+2026-04-07 17:10:41,437 [INFO] ⏱ fire_due check: now=17:10:41, pending=0
+2026-04-07 17:11:11,441 [INFO] ⏱ fire_due check: now=17:11:11, pending=0
+2026-04-07 17:11:24,259 [ERROR] get_updates error: 
+2026-04-07 17:11:41,456 [INFO] ⏱ fire_due check: now=17:11:41, pending=0
+2026-04-07 17:12:01,251 [ERROR] get_updates error: 
+2026-04-07 17:12:11,467 [INFO] ⏱ fire_due check: now=17:12:11, pending=0
+2026-04-07 17:12:38,262 [ERROR] get_updates error: 
+2026-04-07 17:12:41,473 [INFO] ⏱ fire_due check: now=17:12:41, pending=0
+2026-04-07 17:13:11,477 [INFO] ⏱ fire_due check: now=17:13:11, pending=0
+2026-04-07 17:13:15,258 [ERROR] get_updates error: 
+2026-04-07 17:13:41,482 [INFO] ⏱ fire_due check: now=17:13:41, pending=0
+2026-04-07 17:13:52,252 [ERROR] get_updates error: 
+2026-04-07 17:14:02,998 [ERROR] get_updates error: [WinError 64] Указанное сетевое имя более недоступно
+2026-04-07 17:14:11,487 [INFO] ⏱ fire_due check: now=17:14:11, pending=0
+2026-04-07 17:14:14,747 [ERROR] get_updates error: [WinError 64] Указанное сетевое имя более недоступно
+2026-04-07 17:14:36,014 [ERROR] get_updates error: [WinError 121] Превышен таймаут семафора
+2026-04-07 17:14:41,503 [INFO] ⏱ fire_due check: now=17:14:41, pending=0
+2026-04-07 17:14:46,744 [ERROR] get_updates error: [WinError 64] Указанное сетевое имя более недоступно
+2026-04-07 17:15:11,506 [INFO] ⏱ fire_due check: now=17:15:11, pending=0
+2026-04-07 17:15:28,036 [ERROR] get_updates error: [WinError 64] Указанное сетевое имя более недоступно
+2026-04-07 17:15:41,516 [INFO] ⏱ fire_due check: now=17:15:41, pending=0
+2026-04-07 17:16:11,529 [INFO] ⏱ fire_due check: now=17:16:11, pending=0
+2026-04-07 21:42:42,965 [INFO] 🚀 YandexAgent starting...
+2026-04-07 21:42:42,965 [INFO] 🤖 Telegram polling started
+2026-04-07 21:42:42,966 [WARNING] aiohttp-socks not installed. Run: pip install aiohttp-socks
+2026-04-07 21:42:42,967 [INFO] 🔄 Syncing GitHub commits...
+2026-04-07 21:42:43,601 [INFO] GitHub snapshot saved to memory\github_snapshot.md
+2026-04-07 21:42:43,601 [INFO] ✅ GitHub sync done. 5 lines saved.
+2026-04-07 21:42:43,609 [INFO] ⏱ fire_due check: now=21:42:43, pending=0
