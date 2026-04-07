@@ -1,0 +1,10 @@
+2026-04-07 15:51:44,450 [INFO] Created default file: skills\core.md
+2026-04-07 15:51:44,450 [INFO] Created default file: skills\github.md
+2026-04-07 15:51:44,451 [INFO] Created default file: skills\summarizer.md
+2026-04-07 15:51:44,452 [INFO] Created default file: skills\reminders.md
+2026-04-07 15:51:44,453 [INFO] Created default file: memory\notes.md
+2026-04-07 15:51:44,453 [INFO] Created default file: memory\telegram_history.md
+2026-04-07 15:51:44,454 [INFO] Created default file: memory\github_snapshot.md
+2026-04-07 15:51:44,984 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 400 Bad Request"
+2026-04-07 15:51:44,985 [ERROR] Yandex AI error: Error code: 400 - {'error': 'Authorization header is missing'}
+2026-04-07 15:52:37,174 [INFO] HTTP Request: POST https://ai.api.cloud.yandex.net/v1/responses "HTTP/1.1 200 OK"
